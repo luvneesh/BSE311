@@ -1,2 +1,2 @@
 # BSE311
-Extracted audio tu use slides conveniently, only for iitk students
+Extracted audio to use slides conveniently, only for iitk students
